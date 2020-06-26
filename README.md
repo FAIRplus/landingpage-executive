@@ -5,6 +5,7 @@ This is the executive version of the cookbook landingpage.
 
 Designed to make a mid-level manager interested in the cookbook, and delegate the in-depth tasks to her/his team.
 
+Visit the rendered version at: <https://fairplus.github.io/landingpage-executive>
 
 ## where lives the content
 
@@ -14,7 +15,7 @@ The content lives in `/data` directory, and is stored as json. No idea how HTML 
 ## learning more about available options for the content
 
 Unfortunately, the template is not officially documented. You can look up possible options for the content in the directory `themes/hugo-lime/layouts/`, particularly in the `partials` directory there. 
-(!! NOT YET WORKING: visit at <https://fairplus.github.io/landingpage> !!)
+
 
 ## making the page accept markdown
 
