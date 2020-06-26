@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "/landingpage-executive"
 languageCode: "en-us"
 title: "Why FAIR cookbook?"
 theme: "hugo-lime"
