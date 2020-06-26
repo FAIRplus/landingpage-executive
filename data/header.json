@@ -7,16 +7,12 @@
       "href" : ""
     },
     {
-      "title" : "Services",
+      "title" : "Our Offer",
       "href" : "#features"
     },
     {
-      "title" : "Pricing",
-      "href" : "#pricing"
-    },
-    {
-      "title" : "Contact",
-      "href" : "#contact"
+      "title" : "About Us",
+      "href" : "#footer"
     }
   ]
 }
