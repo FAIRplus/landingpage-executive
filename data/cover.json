@@ -1,0 +1,11 @@
+{
+	"title" : "A cookbook to make your data FAIR",
+	"description" : "You have valuable data all around you. The only question is: how to make it FAIR? The FAIR cookbook helps you by providing basic knowledge about the components of FAIR, and with concrete step-by-step recipes to improve the FAIRness of your data. ",
+	"illustration" : "freelancing.svg",
+	"alt_text" : "Or dive in right now",
+	"alt_href" : "#features",
+	"button" : {
+		"text" : "Learn more",
+		"href" : "#contact"
+	}
+}
