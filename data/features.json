@@ -4,19 +4,28 @@
   "content" : [
     {
       "icon" : "",
-      "title" : "Creative Design",
-      "description" : "Our proven creative website design services speak of your brand, thus establishing an instant connection with your customers."
-    },
-    {
-      "icon" : "code",
-      "href": "#",
-      "title" : "Developers & Data Stewards",
-      "description" : "The FAIR cookbook provides you with in-depth discussion of current technical solutions to enable your data reach a higher FAIRness. You can select just the right ingredients to make the data FAIR enough for your specific use-case."
+      "title" : "For Managers",
+      "description" : "You have data. You know that FAIR is for Findable, Accesible, Interoperable, Reusable. You want quick solutions. Learn about success paths right now.",
+      "href" : "#succespaths"
     },
     {
       "icon" : "",
-      "title" : "Digital Marketing",
-      "description" : "Enhance your reach and make more customers fall for you with our well-planned and strategized marketing solutions."
+      "href": "#",
+      "title" : "For Developers",
+      "description" : "You have a task. You have to create an app that complies with the FAIR principles. But what's that even supposed to mean? The FAIR cookbook provides you with guidelines.",
+      "href" : "#guidelines"
+    },
+    {
+      "icon" : "",
+      "title" : "For Data Mungers",
+      "description" : "You have to make that data FAIR. Unfortunately, it comes in form of a database dump, a heap of Excel sheets, or is scattered across an USB drive. Learn how to tackle each of these challenges in the most effective way.",
+      "href" : "#recipes"
+    },
+    {
+      "icon" : "",
+      "title" : "For Learners",
+      "description" : "You want to deep-dive into the FAIR cosmos. What tools are there? What technologies? You will love our ingredient descriptions.",
+      "href" : "#ingredients"
     }
   ]
 }

@@ -16,6 +16,19 @@ The content lives in `/data` directory, and is stored as json. No idea how HTML 
 Unfortunately, the template is not officially documented. You can look up possible options for the content in the directory `themes/hugo-lime/layouts/`, particularly in the `partials` directory there. 
 (!! NOT YET WORKING: visit at <https://fairplus.github.io/landingpage> !!)
 
+## making the page accept markdown
+
+The theme does not support markdown in the data itself. You can add it to the theme by adding `| markdownify `, e.g.
+
+```          
+<h1 style="font-size:50px" class="h1 text-dark">{{ $cover.title }}</h1>
+```
+
+becomes:
+```          
+<h1 style="font-size:50px" class="h1 text-dark">{{ $cover.title | markdownify }}</h1>
+```
+
 
 ## Using Lime Theme Starter
 This page is based on [hugo-lime](https://themes.gohugo.io/hugo-lime/).

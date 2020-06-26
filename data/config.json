@@ -1,10 +1,14 @@
 {
-	"components" : [
+	"possible_values" : [
 		"cover",
 		"features",
 		"pricing",
 		"team",
 		"clients",
 		"contact"
+	],
+	"components" : [
+		"cover",
+		"features"
 	]
 }
