@@ -1,4 +1,4 @@
-baseURL: "/landingpage-executive"
+baseURL: "https://fairplus.github.io/landingpage-executive/"
 languageCode: "en-us"
 title: "Why FAIR cookbook?"
 theme: "hugo-lime"
